@@ -1,0 +1,22 @@
+.copy_right_footer{
+    position: fixed;
+    background-color: lightgreen;
+    text-align: center;
+    box-shadow: 5px 5px 5px lightcoral;
+    font-family: Arial, Helvetica, sans-serif;
+    border:  powderblue;
+    width: 100%;
+    bottom: 0;
+    
+}
+
+canvas{
+    background-color: powderblue;
+    box-shadow: darkkhaki;
+}
+
+.note{
+    font-family: fantasy;
+    font: 200;
+    font-style: italic;
+}
